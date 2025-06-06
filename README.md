@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
- Julia Conceição Camargo, tenho 26 anos e sou natural de São Paulo. Após concluir o ensino médio, iniciei o curso de Bacharelado em Física com ênfase em Física Computacional na Universidade Federal Fluminense (UFF). No entanto, ao completar cerca de 50% da graduação, decidi mudar para área de tecnologia e redirecionei minha trajetória profissional. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC.
+Me chamo Julia Conceição Camargo, tenho 26 anos e sou natural de São Paulo. Após concluir o ensino médio, iniciei o curso de Bacharelado em Física com ênfase em Física Computacional na Universidade Federal Fluminense (UFF). No entanto, ao completar cerca de 50% da graduação, decidi mudar para área de tecnologia e redirecionei minha trajetória profissional. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC.
 
 ---
 ### 🤖 Linguagens e Tecnologias
