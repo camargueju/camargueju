@@ -9,7 +9,7 @@
 
 ### Sobre
 
-Formada até a metade do Bacharelado em Física com ênfase em Física Computacional (UFF), migrei para a área de tecnologia e, há 2 anos, curso Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. A formação em Física contribuiu com uma base sólida em lógica, raciocínio analítico e resolução de problemas, hoje aplicada ao desenvolvimento de software.
+Comecei na Física Computacional (UFF) e migrei para a tecnologia. Hoje curso Análise e Desenvolvimento de Sistemas na FATEC Sorocaba (5º semestre, conclusão prevista para 2028). Da Física trouxe a base em lógica, raciocínio analítico e resolução de problemas, que aplico no desenvolvimento de software.
 
 Maior domínio atual em **Java** e **C**.
 
