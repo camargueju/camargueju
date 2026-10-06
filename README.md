@@ -24,12 +24,19 @@ Maior domínio atual em **Java** e **C**.
 
 ---
 
-### Formação em andamento
+### 📫 Let's Connect!
 
-- Programação Orientada a Objetos (Java/C++)
-- Estrutura de Dados e Algoritmos
-- Banco de Dados
+Feel free to reach out to talk about technology, software development, or new opportunities.
+
+<p>
+  <a href="https://www.linkedin.com/in/julia-concei%C3%A7%C3%A3o-camargo-95856b167/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jjucamargo212@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+###
 
 ---
-
-Projetos fixados disponíveis abaixo.
