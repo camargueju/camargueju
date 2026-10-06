@@ -37,5 +37,5 @@ Feel free to reach out to talk about technology, software development, or new op
 </p>
 
 ###
-sdsfdf
+
 ---
