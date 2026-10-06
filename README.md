@@ -9,7 +9,7 @@
 
 ### Sobre
 
-Formada até a metade do Bacharelado em Física com ênfase em Física Computacional (UFF), migrei para a área de tecnologia e, há 2 anos, curso Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. A formação em Física contribuiu com uma base sólida em lógica, raciocínio analítico e resolução de problemas, hoje aplicada ao desenvolvimento de software.
+Comecei na Física Computacional (UFF) e migrei para a tecnologia. Hoje curso Análise e Desenvolvimento de Sistemas na FATEC Sorocaba (5º semestre, conclusão prevista para 2028). Da Física trouxe a base em lógica, raciocínio analítico e resolução de problemas, que aplico no desenvolvimento de software.
 
 Maior domínio atual em **Java** e **C**.
 
@@ -20,7 +20,6 @@ Maior domínio atual em **Java** e **C**.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -38,5 +37,5 @@ Feel free to reach out to talk about technology, software development, or new op
 </p>
 
 ###
-
+sdsfdf
 ---
